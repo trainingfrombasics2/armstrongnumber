@@ -46,4 +46,7 @@ if(isArmstrong(i))
 //prints the armstrong numbers  
 System.out.print(i+ ", ");  
 }   
-}  
+}
+}
+aha
+lll 
